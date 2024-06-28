@@ -1,0 +1,5 @@
+telepot
+pandas
+ta
+schedule 
+yfinance
